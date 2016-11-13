@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>com.tasty.backend</name>
-	<description>Tasty backend app</description>
+	<description>Tasty backend</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
